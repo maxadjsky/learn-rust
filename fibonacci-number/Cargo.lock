@@ -1,0 +1,4 @@
+[root]
+name = "fibonacci-number"
+version = "0.1.0"
+
