@@ -1,0 +1,6 @@
+[package]
+name = "emuns"
+version = "0.1.0"
+authors = ["mofeng <maxadjsky@gmail.com>"]
+
+[dependencies]
